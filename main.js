@@ -125,3 +125,5 @@
 
   new Game(3);
 }
+
+//VScodeでgit操作練習
